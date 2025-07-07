@@ -46,6 +46,7 @@ This is a must. These AI coding tools are not perfect. Integrate testing early. 
 
 I have found that the Unix tree command is a very effective way to send my folder structure to these tools. I just paste my files and the output of the tree command to the AI. I also diff the AI output with what I have to make sure the AI isn't touching code blocks that it's not supposed to touch.
 
+More on this topic:
 * see [tree.md](lessons/tree.md) for more on trees
 * see [diff.md](lessons/diff.md) for more on diffing two files 
 
