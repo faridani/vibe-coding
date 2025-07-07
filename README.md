@@ -2,7 +2,7 @@
 
 I tried to come up with a guide for vibe-coding large greenfield projects. Here's my suggestion—wondering what else we should add to this list:
 
-## 0- You do not need to pay for an IDE**
+## 0- You do not need to pay for an IDE
 
 Tools like Cursor, Windsurf, or Lovable are great for iterative improvements but less ideal for starting large greenfield projects from scratch. In my experience, these are too overfitted to a small niche audience. As for an IDE, I used to use IntelliJ and PyCharm, but I use VSCode for everything now.
 
