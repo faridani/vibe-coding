@@ -46,6 +46,8 @@ This is a must. These AI coding tools are not perfect. Integrate testing early. 
 
 I have found that the Unix tree command is a very effective way to send my folder structure to these tools. I just paste my files and the output of the tree command to the AI. I also diff the AI output with what I have to make sure the AI isn't touching code blocks that it's not supposed to touch.
 
+see [tree.md](lessons/tree.md) for more 
+
 ## 11- Introduce features gradually
 
 Use an agile board (e.g., Jira, Trello) to prioritize tasks. Roll out features methodically, testing thoroughly to maintain stability and avoid technical debt.
