@@ -36,7 +36,7 @@ Otherwise, you will waste your time. Commit only stable, working versions. Stage
 
 ## 8- Use containers and environments religiously
 
-Use Dockerfiles, requirements.txt, and config files to manage dependencies and environments.
+Use Dockerfiles, requirements.txt, and config files to manage dependencies and environments. I use `conda` environments and `chrome` profiles for projects.
 
 ## 9- Build a robust testing framework
 
