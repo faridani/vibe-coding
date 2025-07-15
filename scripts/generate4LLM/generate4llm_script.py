@@ -4,15 +4,6 @@ Script to generate a markdown file with folder structure and file contents for L
 Usage: python generate4LLM.py
 """
 
-"""
-Prompt used for creating this script
-
-create a python file that I can put in the root of a directory. And call it by typing python generate4LLM.py it should create a markdownfile called 4LLM.md that contains the following information, also in the script include a list of files called include_files that indicates which files should be included in the markdown:
-1- on top of the file it should say my folder structure is as below and insert an ascii tree of the folder structure
-2- it should include the files with their filetype and location for example. If the main.py is in a folder called back_end it should insert into the markdown file  ## FILE: back_end/main.py followed by the content of the main.py file
-
-
-"""
 
 
 import os
@@ -73,7 +64,10 @@ exclude_files = {
     "*.pyd",
     ".DS_Store",
     "Thumbs.db",
-    "*.log"
+    "*.log",
+    "package-lock.json",
+    "package.old.json",
+    "stockfish.js"
 }
 
 def should_include_file(file_path):
