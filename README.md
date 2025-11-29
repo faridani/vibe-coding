@@ -49,7 +49,7 @@ I have found that the Unix tree command is a very effective way to send my folde
 More on this topic:
 * see [tree.md](lessons/tree.md) for more on trees
 * see [diff.md](lessons/diff.md) for more on diffing two files
-* see [the LLM Code Prep script](scripts/llmcodeprep/prompts.MD) for a script to flatten your code for feeding into LLMs 
+* see [the LLM Code Prep script](https://github.com/faridani/vibe-coding/tree/main/scripts/generate4LLM) for a script to flatten your code for feeding into LLMs 
 
 ## 11- Introduce features gradually
 
